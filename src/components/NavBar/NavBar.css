@@ -1,0 +1,5 @@
+.navbar {
+    color: #fff;
+    font-size: calc(10px + 14 * (100vw - 320px)/ 800);
+    white-space: nowrap;
+}
